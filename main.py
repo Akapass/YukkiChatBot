@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/YukkiChatBot >.
+# Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/Akapass/YukkiChatBot >.
 #
 # This file is part of < https://github.com/TeamYukki/YukkiChatBot > project,
 # and is released under the "GNU v3.0 License Agreement".
